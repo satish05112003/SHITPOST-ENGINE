@@ -1,0 +1,4 @@
+project_id = "kprfufuywfpgabiedleh"
+
+[functions.generate-shitpost]
+verify_jwt = false
